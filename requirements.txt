@@ -1,0 +1,10 @@
+notebook
+pandas
+requests
+seaborn
+matplotlib
+scipy
+plotly
+numpy
+statistics
+squarify
